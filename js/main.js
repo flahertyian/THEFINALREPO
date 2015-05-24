@@ -1,5 +1,3 @@
-
-
 window.onload = function draw(){
 
   //window is 601,750
